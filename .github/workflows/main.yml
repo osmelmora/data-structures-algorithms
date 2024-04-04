@@ -1,8 +1,10 @@
 name: test all
-on: push
+on:
+  pull_requests:
+    types: [opened, synchronize]
 jobs:
   test:
-    name: test
+    name: Run test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
