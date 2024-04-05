@@ -28,3 +28,6 @@ for i = 1 to n-1
 ## References
 
 - [Wikipedia - Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort)
+- [GeeksforGeeks - Insertion sort](https://www.geeksforgeeks.org/insertion-sort/)
+- [Khan Academy - Insertion sort](https://www.khanacademy.org/computing/computer-science/algorithms/insertion-sort/a/insertion-sort)
+- [Brilliant - Insertion sort](https://brilliant.org/wiki/insertion-sort/)
