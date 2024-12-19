@@ -24,7 +24,7 @@ export function findSubstring(s: string, words: string[]): number[] {
 
   function isPermutation(
     str: string,
-    wordOcurrencies: Map<string, number>
+    wordOcurrencies: Map<string, number>,
   ): boolean {
     let current = 0;
 
